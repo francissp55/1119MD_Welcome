@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Local Attractions
 
 - Beach access — 5 minute walk
