@@ -13,5 +13,4 @@ If one is missing we need to contact the prior renters ASAP. The replacement cos
 
 # Is anything broken?
 Let DeSatnick know. 
-github sucks
 
