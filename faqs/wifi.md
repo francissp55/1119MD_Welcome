@@ -1,4 +1,4 @@
-[Back to Home](/)
+[Back to Home](../index.html)
 
 
 # Wi‑Fi Information
