@@ -3,3 +3,6 @@ theme: jekyll-theme-minimal
 logo: /assets/images/house.png
 description: "Your digital welcome binder for 1119 Maryland Ave"
 show_downloads: false
+# Add these two lines to fix the "Back to Home" links:
+url: "https://francissp55.github.io"
+baseurl: "/1119MD_Welcome"
