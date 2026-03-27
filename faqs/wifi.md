@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 # Wi‑Fi Information
 
 The network name and password is provided separately
