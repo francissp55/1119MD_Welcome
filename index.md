@@ -12,4 +12,4 @@ We're excited to have you as our guest. This digital welcome guide gives you qui
 - [Local Recommendations](local/restaurants.md)
 - [Amenities](amenities/amenities.md)
 
-If you need anything during your stay, please reach out through the rental platform.
+If you need anything during your stay, please reach out to DeSatnick
