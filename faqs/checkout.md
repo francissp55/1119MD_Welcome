@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Check‑Out Instructions
 
 Thank you for staying with us. Before you leave:
