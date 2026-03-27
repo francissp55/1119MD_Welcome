@@ -1,3 +1,5 @@
+[Back to Home](/1119MD_Welcome/)
+
 # Internet Troubleshooting
 
 1. Check if other devices can connect  
