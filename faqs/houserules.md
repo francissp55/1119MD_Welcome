@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # House Rules
 
@@ -11,5 +8,7 @@ layout: default
 - Handle appliances and fixtures with care  
 - Report any damage or issues as soon as possible  
 - Follow check‑out instructions before departure
+- When parking on the driveway, the car must not encroach upon the sidewalk. You can be ticketed. Parking spaces along the curb   can be used by anyone, not just the renters. While there has generally not been a problem, if you think you will have an
+  extra car, consider having the first car to arrive occupy a space along the curb.
     
 
