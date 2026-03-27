@@ -3,7 +3,6 @@
 We're excited to have you as our guest. This digital welcome guide gives you quick access to everything you need during your stay.
 
 ## Quick Links
-## Quick Links
 - [Check‑In](check-in/check-in.md)
 - [Wi‑Fi Information](faqs/wifi.md)
 - [House Rules](faqs/houserules.md)
@@ -13,6 +12,7 @@ We're excited to have you as our guest. This digital welcome guide gives you qui
 - [Troubleshooting](troubleshooting/tv.md)
 - [Local Recommendations](local/restaurants.md)
 - [Amenities](amenities/amenities.md)
+
 
 
 
