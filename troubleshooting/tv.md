@@ -1,4 +1,3 @@
-
 # TV Guide
 
 If you brought your own streaming device, please remember to take it with you.
