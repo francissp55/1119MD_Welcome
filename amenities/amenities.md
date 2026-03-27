@@ -1,5 +1,6 @@
 [Back to Home](https://francissp55.github.io/1119MD_Welcome/)
 
+
 # Beachbox
 The beach box is on the Reading Beach access. We moved from the Philadelphia access since that area gets more crowded, especially with hotels hogging the space.
 
