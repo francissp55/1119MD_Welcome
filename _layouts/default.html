@@ -8,11 +8,11 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-     {% if page.url != "/" and page.url != "/index.html" %}
-        <a href="{{ site.baseurl }}/" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-bottom: 20px;">
-          ← Back to Home
-        </a>
-    {% endif %}
+        {% if page.url != "/" and page.url != "/index.html" %}
+          <a href="{{ site.baseurl }}/" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-bottom: 20px;">
+            ← Back to Home
+          </a>
+        {% endif %}
 
       {{ content }}
 
