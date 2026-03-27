@@ -1,4 +1,6 @@
-[Back to Home](../index.html)
+---
+layout: default
+---
 
 
 # Wi‑Fi Information
