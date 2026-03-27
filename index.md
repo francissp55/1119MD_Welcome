@@ -9,6 +9,7 @@ We're excited to have you as our guest. This digital welcome guide gives you qui
 
 
 ## Quick Links
+- [New This Year](faqs/newthisyear.html)
 - [Check‑In](check-in/check-in.html)
 - [Wi‑Fi Information](faqs/wifi.html)
 - [House Rules](faqs/houserules.html)
