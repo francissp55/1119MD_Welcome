@@ -1,3 +1,5 @@
+[Back to Home](/)
+
 # Check In
 
 If you are viewing this you have probably already checked in but do this on the day of check in. Let DeSatnick know unless otherwise instructed
