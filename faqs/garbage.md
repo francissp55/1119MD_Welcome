@@ -1,3 +1,5 @@
+
+
 # Garbage and Recycling
 
 Garbage and Recyling goes out Wednesday evening. Good News! We have a service that will take the garbage and recylcing
