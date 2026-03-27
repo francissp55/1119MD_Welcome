@@ -1,4 +1,4 @@
-[Back to Home](/1119MD_Welcome/)
+[Back to Home](/)
 
 
 # Beachbox
