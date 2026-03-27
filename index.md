@@ -3,7 +3,7 @@
 We're excited to have you as our guest. This digital welcome guide gives you quick access to everything you need during your stay.
 
 ## Quick Links
-- [Wi‑Fi Information](faqs/wifi.md)
+- [Check‑In](check-in/check-in.md)
 - [Wi‑Fi Information](faqs/wifi.md)
 - [House Rules](rules/noise.md)
 - [Appliance Guides](faqs/appliances.md)
