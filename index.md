@@ -16,7 +16,7 @@ We're excited to have you as our guest. This digital welcome guide gives you qui
 - [House Rules](faqs/houserules.html)
 - [Appliance Guides](faqs/appliances.html)
 - [Check‑Out Instructions](faqs/checkout.html)
-- [Contacts](contacts/contacts.html)
+- [Contacts](faqs/contacts.html)
 - [Troubleshooting](troubleshooting/tv.html)
 - [Local Recommendations](local/restaurants.html)
 - [Amenities](amenities/amenities.html)
