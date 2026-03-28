@@ -11,3 +11,5 @@
 -Garbage and Recycling to curb service. On Wednesday and service company will place the recycling and garbage cans
   at the curb and put them back on Thursday. Please fill up the cans on Wedsnesday to minimize the amount being put out
   on Saturday.
+
+-The beach box location is now closest to the Reading beach access.
