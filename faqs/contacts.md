@@ -13,7 +13,9 @@ Curb Service (Garbage/Recycling)
 Shoreline Waste Solution (609)970-7095
 
 Other Property
-Brett Douglass (609)780-4302
+Douglass Contracting Services
+Brett Douglass (609)435-1955        
+Brett is very familiar with our house.
 
 Owners
 Steve & Bea Francis (609)578-0987
