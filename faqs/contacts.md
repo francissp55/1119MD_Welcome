@@ -1,7 +1,9 @@
 
 # Contacts
 
-Desatnick. Contact your agent.
+Desatnick. or contact your agent if you booked through another agent.
+
+Only reach out directly to the contacts below if something is broken/not working. 
 
 HVAC/Plumbing
 ACES Mechanical (609)447-1780
