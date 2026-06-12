@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Local Restaurants
+# Local Restaurants  (under construction)
 
 ## Casual
 - Example Café — Breakfast & lunch

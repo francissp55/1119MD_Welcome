@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Local Attractions
+# Local Attractions (under construction)
 
 - Beach access — 5 minute walk
 - Washington St. Mall — Shops, food, and games
