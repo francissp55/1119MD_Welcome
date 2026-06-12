@@ -26,3 +26,5 @@ We're excited to have you as our guest. This digital welcome guide gives you qui
 
 If you need anything during your stay, please reach out to DeSatnick.
 
+Site last updated June 12, 2026 
+
