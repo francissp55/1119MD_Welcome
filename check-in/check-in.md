@@ -17,3 +17,6 @@ You should have 6 commercial beach tags. A commercial beach tag is much more tha
 
 ## Is anything broken?
 Let DeSatnick know immediately.
+
+## Are both garbage cans and recyling cans full?
+Contact our garbage service at 609-970-7095

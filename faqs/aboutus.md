@@ -3,7 +3,7 @@
 Hello, we are Bea and Steve Francis. We bought 1119 Maryland in 2017.
 
 Bea was born and raised in New Jersey and after college, became an elementary teacher. Bea's first teaching job was at Eielson AFB, Alaska, teaching for the Fairbanks North Star School District.
-Steve was born and raised in England. He moved to the US in 1967 when he was 12. Steve moved around a lot as his stepfather was in the USAF. After graduating from college, Steve joined the USAF navigating KC-135s and RC-135s in Washington and Alaska, where he met Bea.
+Steve was born and raised in England. He moved to the US in 1967. Steve moved around a lot as his stepfather was in the USAF. After graduating from college, Steve joined the USAF navigating KC-135s and RC-135s from bases in Washington and Alaska.
 
 Steve left the AF and became a CPA at Price Waterhouse in Anchorage, AK. Our first child, Julie was born in Fairbanks, AK. We moved to Anchorage, then to Portland, OR when our second child, John was born. Eventually, Steve's job took us to New Jersey. 
 
