@@ -17,9 +17,9 @@ See: [TV Troubleshooting](../troubleshooting/tv.md)
 - Empty the dishwasher.
 
 # Refrigerator
-- It has an icemaker but no residential refrigerator is designed to provide unlimited ice for 15 people.
-- It can also produce ice in a second container in the freezer.
-- Clean up spills and empty the refrigerator.
+- It has an internal icemaker and water dispenser. The current refrigerator was installed June, 2026. For returning guests, you might ask where is the water and ice dispenser. Unfortunately, after decades of trying, manufacturers still cannot design an indoor ice dispenser that lasts very long. The new refrigerator replaces a 2 year old refrigerator that was not working. Even though we had an extended warranty, the warranty provider did not have any nearby appliance companies that could provide timely or quality service. The old refrigerator will be repaired but stored with my property manager for when this current refrigerator breaks.
+- The ice maker is located in the freezer compartment.
+- Please clean up spills and empty the refrigerator.
 
 # Keurig
 - Remove used pods when you leave. The coffee make will be descaled before the season starts. A regular drip coffee maker

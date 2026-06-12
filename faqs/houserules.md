@@ -1,10 +1,10 @@
 
 # House Rules
 
-- No smoking or vaping inside the home or porch.
-- Please keep noise to a reasonable level, especially after 10 PM.
-- Only registered guests are allowed on the property.
-- Please do not move furniture, especially the beds.
+- No smoking or vaping inside the home or porch. 100% of the damage deposit will be forfeited.
+- Please keep noise to a reasonable level. Quiet hours are after 10 PM.
+- Only registered guests are allowed on the property. 
+- Please do not move furniture, especially the beds. 
 - Handle appliances and fixtures with care.
 - Report any damage or issues as soon as possible. If necessary, we will replace the item ASAP.
 - Follow check‑out instructions before departure.

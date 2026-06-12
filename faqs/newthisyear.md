@@ -13,3 +13,5 @@
   on Saturday.
 
 -The beach box location is now closest to the Reading beach access.
+
+- New refrigerator
