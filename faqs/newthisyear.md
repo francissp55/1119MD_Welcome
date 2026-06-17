@@ -14,4 +14,4 @@
 
 -The beach box location is now closest to the Reading beach access.
 
-- New refrigerator
+- New refrigerator. Yes. This is the 4th refrigerator in 8 years. No more "in door" water and ice. There is an internal water dispenser and and ice maker in the freezer. Apparently after 30 years manufacturers still can't build a refrigerator, or they don't want to.
