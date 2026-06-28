@@ -18,7 +18,9 @@ See: [TV Troubleshooting](../troubleshooting/tv.md)
 
 # Refrigerator
 - It has an internal icemaker and water dispenser. The current refrigerator was installed June, 2026. For returning guests, you might ask where is the water and ice dispenser. Unfortunately, after decades of trying, manufacturers still cannot design an indoor ice dispenser that lasts very long. The new refrigerator replaces a 2 year old refrigerator that was not working. Even though we had an extended warranty, the warranty provider did not have any nearby appliance companies that could provide timely or quality service. The old refrigerator will be repaired but stored with my property manager for when this current refrigerator breaks.
-- The ice maker is located in the freezer compartment.
+
+- The ice maker is located in the freezer compartment. It has limited capacity. There are ice cube trays in the cabinet above the refrigerator. On change over day, the refrigerator door is open a lot and will warm up. That will prevent the ice machine from working.
+
 - Please clean up spills and empty the refrigerator.
 
 # Keurig
