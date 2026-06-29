@@ -10,4 +10,4 @@ If the TV does not show the welcome screen:
 2. Confirm the TV is on the correct input
 3. Restart the device by unplugging for 10 seconds
 
-If issues persist, contact us through the rental platform.
+
