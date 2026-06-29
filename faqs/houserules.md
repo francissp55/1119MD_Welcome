@@ -11,6 +11,8 @@
 - When parking on the driveway, the car must not encroach upon the sidewalk. You can be ticketed.
 - Sand! Belongs at the beach. We do have an outdoor shower.
 - If you have a spill in the oven or on the stove, please clean it up.
+- If you have a spill in the refrigerator, please clean it up.
+- If you spill something on the couch, dont turn the cushions over to conceal it.
 - Put as much garbage and recycling out on the Wednesday. Saturday is not the day to fill up the garbage and recycling cans. 
     
 
