@@ -13,5 +13,5 @@ Other features
 
 If you experience issues:
 - Try toggling Wi‑Fi on your device
-- Restart the router (power off 10 seconds, then on). Restarting the router takes as long as 12 minutes
+- Restart the router (power off 10 seconds, then on). Restarting the router takes as long as 10-15 minutes
 
