@@ -11,4 +11,4 @@ Please follow the rule for recycling. The township will remove stuff they do not
 
 # Please put as much out the day of collection(Wedneday). Do not leave the trash and recycling cans so full on Saturday the incoming renters have no space in the cans. 
 
-Crush cans, boxes etc. Do not put food scraps in recycling. 
+Crush cans, boxes etc. Do not put food scraps in recycling. Do not put pizza boxes in the recycling.
