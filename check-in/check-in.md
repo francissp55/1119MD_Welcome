@@ -9,6 +9,7 @@ If you are viewing this, you have probably already checked in, but please do thi
 ## Is it clean?
 Check for cleanliness. MAS cleaners are our cleaners. If there is an issue, please call:
 **Mirsa at 609-675-6854** Mirsa has been cleaning our house since we bought it in 2017.
+We do a deep clean before the start of a season, usually in May. During the course of a season, and depending on the condition the previous renter leaves the house, it is not possible to do a deep clean on the changeover day. This might include hair accumulating in the shower traps. 
 
 ## Missing Beach Tags
 You should have 6 commercial beach tags. A commercial beach tag is much more than a seasonal tag since it can be transferred from one person to another. 
